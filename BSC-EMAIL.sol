@@ -1,3 +1,7 @@
+/**
+ *Submitted for verification at BscScan.com on 2021-06-26
+*/
+
 /*
 
 BSC-EMAIL is a secure mail service powered by blockchain technology.
