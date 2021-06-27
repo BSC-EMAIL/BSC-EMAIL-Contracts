@@ -12,4 +12,6 @@
 
 📧 Twitter: https://twitter.com/BSC_EMAIL
 
-https://bscscan.com/token/0xDFfBA8dCaa357014c9589fEe11588D4a9507CDb2"# BSC-EMAIL-Contracts" 
+https://bscscan.com/token/0xDFfBA8dCaa357014c9589fEe11588D4a9507CDb2
+
+" # BSC-EMAIL-Contracts" 
