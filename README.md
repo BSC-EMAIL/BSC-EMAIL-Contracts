@@ -6,7 +6,7 @@
 
 📧 Contract: 0xDFfBA8dCaa357014c9589fEe11588D4a9507CDb2
 
-📧 Website: https://bsc-email.space/ (http://bsc-email.com/)
+📧 Website: https://bsc-email.com/
 
 📧 Telegram: https://t.me/bscemail_official
 
