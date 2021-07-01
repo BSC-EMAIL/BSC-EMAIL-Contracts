@@ -6,11 +6,19 @@
 
 📧 Contract: 0xDFfBA8dCaa357014c9589fEe11588D4a9507CDb2
 
-📧 Website: http://bsc-email.com/
+📧 Website: https://bsc-email.space/ (http://bsc-email.com/)
 
-📧 Join Instagram: https://www.instagram.com/bsc_email/
+📧 Telegram: https://t.me/bscemail_official
+
+📧 Instagram: https://www.instagram.com/bsc_email/
 
 📧 Twitter: https://twitter.com/BSC_EMAIL
+
+📧 Medium: https://bsc-email.medium.com
+
+📧 GitHub: https://github.com/BSC-EMAIL/BSC-EMAIL-Contracts
+
+
 
 https://bscscan.com/token/0xDFfBA8dCaa357014c9589fEe11588D4a9507CDb2
 
